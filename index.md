@@ -9,4 +9,9 @@
 
 [Images]()
 
+### Errata
+[Form](https://goo.gl/forms/58GgTgbMAg6Dvpdr1)
+
+### Leave us feedback
+
 ### Support and Contact
