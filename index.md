@@ -30,7 +30,7 @@ ISBN-13   : 978-1548000899
 * [Images]()
 
 ### Report errors and leave us feedback or comments
-* [Feedback form](https://goo.gl/forms/X2DEJXoWRyqVxKpC2)
-* [Errors form](https://goo.gl/forms/58GgTgbMAg6Dvpdr1)
+* [Feedback form](https://goo.gl/forms/PsZWdlb8AIXEiVH73)
+* [Errors form](https://goo.gl/forms/4q6hDBYcP9FpK0pi2)
 
 ### Contact us
