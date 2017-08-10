@@ -1,6 +1,6 @@
 ## Advanced Computer Programming in Python
 
-[logo]: https://advancedpythonprogramming.github.io/images/cover-front.png
+[logo]: https://advancedpythonprogramming.github.io/images/cover-front.png ""
 
 This book covers most of the advanced topics in Computer Programming, such as Object Oriented Design, Data Structures, Functional Programming, MetaClasses, Abstract Classes, Exceptions, Testing, Threading, Simulation, Graphical Interfaces, Input/Output, Networking and Web Services. All these topics are based on the Python 3 language. On each chapter, besides the theory, there is always code showing examples of applications. Also, at the end of each chapter, there are two hands-on activities, where a harder problem is defined, encouraging readers to solve them by themselves. We include all the solutions at the end of the book
 
