@@ -10,7 +10,7 @@
 [Images]()
 
 ### Errata
-[Form](https://goo.gl/forms/58GgTgbMAg6Dvpdr1)
+* [Form](https://goo.gl/forms/58GgTgbMAg6Dvpdr1)
 
 ### Leave us feedback
 
