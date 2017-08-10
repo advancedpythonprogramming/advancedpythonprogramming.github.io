@@ -12,6 +12,6 @@
 ### Errata
 * [Form](https://goo.gl/forms/58GgTgbMAg6Dvpdr1)
 
-### Leave us feedback
+### [Leave us feedback or comments](https://goo.gl/forms/X2DEJXoWRyqVxKpC2)
 
 ### Support and Contact
