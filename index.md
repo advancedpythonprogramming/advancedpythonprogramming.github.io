@@ -1,9 +1,12 @@
 ## Advanced Computer Programming in Python
 
-[logo]: https://advancedpythonprogramming.github.io/images/cover-front.png ""
+![](https://advancedpythonprogramming.github.io/images/cover-front.png)
 
 This book covers most of the advanced topics in Computer Programming, such as Object Oriented Design, Data Structures, Functional Programming, MetaClasses, Abstract Classes, Exceptions, Testing, Threading, Simulation, Graphical Interfaces, Input/Output, Networking and Web Services. All these topics are based on the Python 3 language. On each chapter, besides the theory, there is always code showing examples of applications. Also, at the end of each chapter, there are two hands-on activities, where a harder problem is defined, encouraging readers to solve them by themselves. We include all the solutions at the end of the book
 
+### Purchase the Book at
+* [CreateSpace](https://www.createspace.com/7030528)
+* [Amazon](https://www.amazon.com/Advanced-Computer-Programming-Python-Pichara/dp/1548000892/ref=sr_1_1?ie=UTF8&qid=1502384552&sr=8-1&keywords=pieringer)
 
 ### Book Details
 ```
@@ -15,6 +18,11 @@ Language  : English
 ISBN-10   : 1548000892
 ISBN-13   : 978-1548000899
 ```
+
+### Authors
+
+* [Karim Pichara](http://kpichara.ing.puc.cl/)
+* [Christian Pieringer](https://cpieringer.github.io/)
 
 ### Material
 * [Codes]()
