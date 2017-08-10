@@ -6,7 +6,7 @@ This book covers most of the advanced topics in Computer Programming, such as Ob
 
 
 ### Material
-[Codes][] 
+[Codes]() 
 [Hands-On Activities](https://github.com/advancedpythonprogramming/hands-on-activities)
 [Images]()
 
