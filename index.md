@@ -24,7 +24,23 @@ ISBN-13   : 978-1548000899
 * [Karim Pichara](http://kpichara.ing.puc.cl/)
 * [Christian Pieringer](https://cpieringer.github.io/)
 
-### Material
+### Book Chapters
+* [Table of Contents](https://github.com/advancedpythonprogramming/Book_Chapters/0_Table_of_Contents.pdf)
+* [Acknowledgements and Preface](https://github.com/advancedpythonprogramming/Book_Chapters/1_Ack_Preface.pdf)
+* [Chapter 1: Object Oriented Programming](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_1_OOP.pdf)
+* [Chapter 2: Data Structures](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_2_Data_Structures.pdf)
+* [Chapter 3: Functional Programming](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_3_Functional_Prog.pdf)
+* [Chapter 4: Meta Classes](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_4_Meta_Classes.pdf)
+* [Chapter 5: Exceptions](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_5_Exceptions.pdf)
+* [Chapter 6: Testing](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_6_Testing.pdf)
+* [Chapter 7: Threading](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_7_Threading.pdf)
+* [Chapter 8: Simulation](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_8_Simulation.pdf)
+* [Chapter 9: Strings and Bytes](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_9_Strings_Bytes.pdf)
+* [Chapter 10: I/O Files](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_10_I_O_Files.pdf)
+* [Chapter 11: Serialization](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_11_Serialization.pdf)
+
+
+### Book Materials
 * [Codes]()
 * [Hands-On Activities](https://github.com/advancedpythonprogramming/hands-on-activities)
 * [Images]()
