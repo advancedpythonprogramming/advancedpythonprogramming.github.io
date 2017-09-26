@@ -38,6 +38,10 @@ ISBN-13   : 978-1548000899
 * [Chapter 9: Strings and Bytes](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_9_Strings_Bytes.pdf)
 * [Chapter 10: I/O Files](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_10_I_O_Files.pdf)
 * [Chapter 11: Serialization](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_11_Serialization.pdf)
+* [Chapter 12: Networking](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_12_Networking.pdf)
+* [Chapter 13: Web Services](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_13_Web_Services.pdf)
+* [Chapter 14: Graphical User Interfaces](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_14_GUI.pdf)
+* [Chapter 15: Solutions for Hands-On Activities](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_15_Solutions.pdf)
 
 
 ### Book Materials
