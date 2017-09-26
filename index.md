@@ -25,7 +25,7 @@ ISBN-13   : 978-1548000899
 * [Christian Pieringer](https://cpieringer.github.io/)
 
 ### Book Chapters
-* [Table of Contents](https://github.com/advancedpythonprogramming/Book_Chapters/0_Table_of_Contents.pdf)
+* [Table of Contents](https://github.com/advancedpythonprogramming/Book_Chapters/0_Table_of_Contents)
 * [Acknowledgements and Preface](https://github.com/advancedpythonprogramming/Book_Chapters/1_Ack_Preface.pdf)
 * [Chapter 1: Object Oriented Programming](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_1_OOP.pdf)
 * [Chapter 2: Data Structures](https://github.com/advancedpythonprogramming/Book_Chapters/Chapter_2_Data_Structures.pdf)
@@ -52,5 +52,3 @@ ISBN-13   : 978-1548000899
 ### Report errors and leave us feedback or comments
 * [Feedback form](https://goo.gl/forms/PsZWdlb8AIXEiVH73)
 * [Errors form](https://goo.gl/forms/4q6hDBYcP9FpK0pi2)
-
-### Contact us
