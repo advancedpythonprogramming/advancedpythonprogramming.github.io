@@ -1,3 +1,0 @@
-Name: John Smith, email: js1@hotmail.com
-Name: Thomas White, email: thwh@gmail.com
-Name: Jeff West, email: jwest@yahoo.com

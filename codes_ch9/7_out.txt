@@ -1,9 +1,0 @@
-
-From: <someone@domain.com>
-To: <anyone@example.com>
-Subject: This email is urgent
-
-This is a test email.
-
-I hope this be helpful!
-

@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "8.py", line 16, in <module>
-    chevi.stop()
-AttributeError: 'Car' object has no attribute 'stop'

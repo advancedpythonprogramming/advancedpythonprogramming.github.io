@@ -1,1 +1,0 @@
-b'line_\x00 abcde12line_\x01 abcde12line_\x02 abcde'

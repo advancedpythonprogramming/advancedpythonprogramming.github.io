@@ -1,3 +1,0 @@
-sold? False
-sold? True
-Apartment 1 was sold

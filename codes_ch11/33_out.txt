@@ -1,4 +1,0 @@
-Bob
-deserialized object, setting its state...
-
-Bob deseialized

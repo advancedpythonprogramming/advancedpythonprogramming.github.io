@@ -1,2 +1,0 @@
-Check the input values. They aren't ints or the denominator is 0
-Rebember to ALWAYS use this structure to handle your runtimeerrors

@@ -1,3 +1,0 @@
-Searching for Hello
-This line contains Hello
-This line will (because it contains Hello :) )

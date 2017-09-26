@@ -1,5 +1,0 @@
-
-From: <me@example.com>
-To: <you@example.com>
-Subject: Look at this email.
-Sorry this is not important.

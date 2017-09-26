@@ -1,8 +1,0 @@
-Testing: suv
-Testing: motorcycle
-Testing: motorcycle
-Testing: motorcycle
-Testing: suv
-Testing: motorcycle
-Testing: suv
-Average waiting time:  18.57 min, 7 vehicles queued.

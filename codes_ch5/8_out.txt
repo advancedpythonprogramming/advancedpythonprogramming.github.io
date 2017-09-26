@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "9.py", line 8, in <module>
-    print(book['editorial'])
-KeyError: 'editorial'
